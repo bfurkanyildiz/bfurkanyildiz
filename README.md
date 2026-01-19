@@ -3,7 +3,7 @@
 First-year **Information Security Technology** student at **Istinye University**. I'm passionate about cybersecurity, networking, and system hardening.
 
 ## 🏆 TryHackMe Stats
-[![TryHackMe Badge](https://tryhackme.com/badge/6711180)](https://tryhackme.com/p/bfurkanyildizz)
+![TryHackMe](https://tryhackme-badges.adrelais.com/badge/bfurkanyildizz)
 
 ## 🛠 Tech Stack & Tools
 - **OS:** Kali Linux, Windows Server
