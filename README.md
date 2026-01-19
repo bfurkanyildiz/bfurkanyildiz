@@ -1,6 +1,6 @@
 # Hi there, I'm Furkan! 👋
 
-First-year **Information Security Technology** student at **Istinye University** (GPA: 3.60). I'm passionate about cybersecurity, networking, and system hardening.
+First-year **Information Security Technology** student at **Istinye University**. I'm passionate about cybersecurity, networking, and system hardening.
 
 ## 🏆 TryHackMe Stats
 [![TryHackMe Badge](https://tryhackme.com/badge/6711180)](https://tryhackme.com/p/bfurkanyildizz)
