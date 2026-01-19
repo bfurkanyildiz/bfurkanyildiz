@@ -1,9 +1,13 @@
-# Hi there, I'm Furkan! 👋
+![w](https://github.com/user-attachments/assets/ca7a6bd3-bcf9-40db-ad08-68504e754d34)
+
+
+
+# Hi there, I'm Furkan! 👋                                                                                                                                                                
 
 First-year **Information Security Technology** student at **Istinye University**. I'm passionate about cybersecurity, networking, and system hardening.
 
 ## 🏆 TryHackMe Stats
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-bfurkanyildizz-blue?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/bfurkanyildizz)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-bfurkanyildizz-blue?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/bfurkanyildizz)                                                                                         
 
 ## 🛠 Tech Stack & Tools
 - **OS:** Kali Linux, Windows Server
