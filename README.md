@@ -18,3 +18,12 @@ First-year **Information Security Technology** student at **Istinye University**
 ### 📈 Stats
 ![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfurkanyildiz&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfurkanyildiz&layout=compact&theme=dark)
+
+---
+
+
+### 🛠 Skills & Tools
+- **Operating Systems:** ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-blue?logo=kali-linux&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white)
+- **Security Tools:** ![Nmap](https://img.shields.io/badge/-Nmap-grey) ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white) ![Bettercap](https://img.shields.io/badge/-Bettercap-orange)
+- **Virtualization:** ![VirtualBox](https://img.shields.io/badge/-VirtualBox-214294?logo=virtualbox&logoColor=white)
+- **Programming:** ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
