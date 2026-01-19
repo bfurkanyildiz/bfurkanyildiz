@@ -1,5 +1,8 @@
-![w](https://github.com/user-attachments/assets/ca7a6bd3-bcf9-40db-ad08-68504e754d34)
+<p align="right">
+  
+![demon-slayer-kimetsu-no-yaiba](https://github.com/user-attachments/assets/efa8a6cf-1a7f-4750-a885-45ae87f45b2c)
 
+</p>
 
 
 # Hi there, I'm Furkan! 👋                                                                                                                                                                
