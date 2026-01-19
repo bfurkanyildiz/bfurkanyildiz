@@ -17,9 +17,9 @@ First-year **Information Security Technology** student at **Istinye University**
 - **Tools:** Nmap, Bettercap, Wireshark, VirtualBox
 - **Languages:** Python (for automation & scripting)
 
-## 📂 Featured Work
-- [Cybersecurity-Notes](https://github.com/bfurkanyildiz/Cybersecurity-Notes): My technical documentation, THM write-ups, and lab notes.
-
+## 📘 Repos
+* 🛡️ [Active Directory Hardening & Auditing](https://github.com/bfurkanyildiz/ActiveDirectory-SecOps) - My final project at Istinye University focused on securing Windows environments.
+* 🌐 [Networking & CyberSecurity Notes](https://github.com/bfurkanyildiz/CyberSecurity-Notes) - Technical documentation and write-ups from my learning journey on TryHackMe.
 ---
 
 ### 📈 Stats
