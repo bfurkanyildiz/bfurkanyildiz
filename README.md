@@ -22,8 +22,10 @@ First-year **Information Security Technology** student at **Istinye University**
 ---
 
 ### 📈 Stats
-![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfurkanyildiz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfurkanyildiz&layout=compact&theme=dark)
+
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=bfurkanyildiz&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bfurkanyildiz&layout=compact&theme=tokyonight)
 
 ---
 
