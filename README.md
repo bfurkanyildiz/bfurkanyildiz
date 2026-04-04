@@ -22,14 +22,7 @@ First-year **Information Security Technology** student at **Istinye University**
 ---
 
 ### 📈 Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=bfurkanyildiz&show_icons=true&theme=tokyonight" alt="Furkan's GitHub stats" />
-</p>
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bfurkanyildiz&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bfurkanyildiz&theme=tokyonight)
 
 ---
 
