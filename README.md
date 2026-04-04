@@ -18,6 +18,7 @@ First-year **Information Security Technology** student at **Istinye University**
 ## 📘 Repos
 * 🛡️ [Active Directory Hardening & Auditing](https://github.com/bfurkanyildiz/ActiveDirectory-SecOps) - My final project at Istinye University focused on securing Windows environments.
 * 🌐 [Networking & CyberSecurity Notes](https://github.com/bfurkanyildiz/CyberSecurity-Notes) - Technical documentation and write-ups from my learning journey on TryHackMe.
+* 🛡️ [[NetVanguard] v1.0.1](https://github.com/bfurkanyildiz/NetVanguard) - A hybrid network intelligence and attack surface analysis tool developed with Rust and React, featuring Shodan OSINT and #L10 privilege escalation scanning capabilities.
 ---
 
 ### 📈 Stats
